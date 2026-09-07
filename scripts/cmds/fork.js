@@ -24,13 +24,13 @@ module.exports = {
   },
 
   onStart: async function ({ message, getLang }) {
-    const link = "https://github.com/goatbotnx/NX-GOAT-BOT-V3";
+    const link = "https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED";
     return message.reply(getLang("current", link));
   },
 
   onChat: async function ({ message, getLang, event }) {
     if (event.body && event.body.toLowerCase() === "fork") {
-      const link = "https://github.com/goatbotnx/NX-GOAT-BOT-V3";
+      const link = "https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED";
       return message.reply(getLang("current", link));
     }
   }
