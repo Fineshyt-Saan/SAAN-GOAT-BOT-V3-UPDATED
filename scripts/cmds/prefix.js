@@ -14,11 +14,11 @@ module.exports = {
 	config: {
 		name: "prefix",
 		version: "2.2",
-		author: "Siam Ahmed Saan",
+		author: "𝐒𝐈𝐀𝐌 𝐀𝐇𝐌𝐄𝐃 𝐒𝐀𝐀𝐍",
 		countDown: 5,
 		role: 0,
 		description: "Change & show bot prefix ",
-		category: "config"
+		category: "system"
 	},
 
 	langs: {
@@ -111,7 +111,7 @@ module.exports = {
 		const time = moment().tz("Asia/Dhaka").format("hh:mm A");
 		const date = moment().tz("Asia/Dhaka").format("DD MMM YYYY");
 
-		const owner = global.GoatBot.config.adminName || "𝗦𝗜𝗔𝗠 𝗔𝗛𝗠𝗘𝗗 𝗦𝗔𝗔𝗡";
+		const owner = global.GoatBot.config.adminName || "𝐒𝐈𝐀𝐌 𝐀𝐇𝐌𝐄𝐃 𝐒𝐀𝐀𝐍";
 
 		return message.reply({
 			body:
@@ -123,7 +123,7 @@ module.exports = {
 ┃ 📅 Date   : ${date}
 ┃ 👑 Owner  : ${owner}
 ┃ ⚡ Status : ONLINE
-╰━━━〔 ✨ Powered by 𝗦𝗔𝗔𝗡 𝗘𝗫𝗛𝗔𝗨𝗦𝗧𝗘𝗗 〕━━━╯`,
+╰━━━〔 ✨ Powered by 𝐒𝐀𝐀𝐍 𝐄𝐗𝐇𝐀𝐔𝐒𝐓𝐄𝐃 〕━━━╯`,
 			attachment: await getStreamFromURL(gif)
 		});
 	}
