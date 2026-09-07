@@ -1,30 +1,22 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:7000FF,100:00D9FF&height=280&section=header&text=GOAT-BOT-UPDATED&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=⚡%20Rebuilt.%20Refined.%20Reloaded.%20⚡&descSize=22&descAlignY=62&descColor=FFD700" width="100%"/><br><br><img src="https://i.ibb.co/TB9Xmrx8/a3f874c3d999.jpg" width="1942" height="809" alt="SIAM-AHMED-SAAN"><br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2800&pause=600&color=9D4EDD&center=true&vCenter=true&width=850&lines=🔥+SIAM-AHMED-SAAN;⚡+Next-Generation+Messenger+Bot;💎+Premium+Automation+System;🚀+Fast+%7C+Stable+%7C+Powerful;🛡️+Built+For+Performance" alt="Typing Animation"><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:7000FF,100:00D9FF&height=280&section=header&text=GOAT-BOT-UPDATED&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=⚡%20Rebuilt.%20Refined.%20Reloaded.%20⚡&descSize=22&descAlignY=62&descColor=FFD700" width="100%"/><br><br><img src="https://i.ibb.co/TB9Xmrx8/a3f874c3d999.jpg" width="1942" height="809" alt="SIAM-AHMED-SAAN"><br><br><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2800&pause=600&color=9D4EDD&center=true&vCenter=true&width=850&lines=🔥+SIAM-AHMED-SAAN;⚡+Next-Generation+Messenger+Bot;💎+Premium+Automation+System;🚀+Fast+%7C+Stable+%7C+Powerful;🛡️+Built+For+Performance" alt="Typing Animation"><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Saan-Irl&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge&abbreviated=true" alt="Profile Views"><br><br>
 
-<a href="https://github.com/Saan-Irl/Enyo-Saan-V3">
-<img src="https://img.shields.io/github/stars/Saan-Irl/Enyo-Saan-V3?style=for-the-badge&logo=github&label=STARS&color=7000FF" alt="Stars">
-</a><a href="https://github.com/Saan-Irl/Enyo-Saan-V3/network/members">
-<img src="https://img.shields.io/github/forks/Saan-Irl/Enyo-Saan-V3?style=for-the-badge&logo=github&label=FORKS&color=00D9FF" alt="Forks">
-</a><a href="https://github.com/Saan-Irl/Enyo-Saan-V3">
-<img src="https://img.shields.io/github/watchers/Saan-Irl/Enyo-Saan-V3?style=for-the-badge&logo=github&label=WATCHERS&color=9D4EDD" alt="Watchers">
-</a><a href="https://github.com/Saan-Irl/Enyo-Saan-V3">
-<img src="https://img.shields.io/github/last-commit/Saan-Irl/Enyo-Saan-V3?style=for-the-badge&logo=github&label=LAST%20UPDATE&color=FFD700" alt="Last Commit">
-</a><a href="https://github.com/Saan-Irl/Enyo-Saan-V3/blob/main/LICENSE">
+<a href="https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED">
+<img src="https://img.shields.io/github/stars/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED?style=for-the-badge&logo=github&label=STARS&color=7000FF" alt="Stars">
+</a><a href="https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED/network/members">
+<img src="https://img.shields.io/github/forks/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED?style=for-the-badge&logo=github&label=FORKS&color=00D9FF" alt="Forks">
+</a><a href="https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED">
+<img src="https://img.shields.io/github/watchers/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED?style=for-the-badge&logo=github&label=WATCHERS&color=9D4EDD" alt="Watchers">
+</a><a href="https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED">
+<img src="https://img.shields.io/github/last-commit/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED?style=for-the-badge&logo=github&label=LAST%20UPDATE&color=FFD700" alt="Last Commit">
+</a><a href="https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED/blob/main/LICENSE">
 <img src="https://img.shields.io/badge/LICENSE-MIT-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
-</a></div>---
-
-<div align="center">🐐 SAAN-GOAT-BOT-UPDATED
-
-"Next-Generation Facebook Messenger Automation"
+</a></div>---<div align="center">🐐 SAAN-GOAT-BOT-UPDATED"Next-Generation Facebook Messenger Automation"
 
 Powerful • Modular • Fast • Customizable
 
-</div>---
-
-✨ About
+</div>---✨ About
 
 SAAN-GOAT-BOT-UPDATED is a powerful and modular Facebook Messenger automation bot designed for performance, flexibility and easy customization.
 
@@ -36,9 +28,7 @@ The project provides a command-based architecture with support for automation, A
 
 <table>
 <tr>
-<td width="50%" valign="top">🤖 Automation
-
-- ⚡ Fast command execution
+<td width="50%" valign="top">🤖 Automation- ⚡ Fast command execution
 - 🧩 Modular command system
 - 🔄 Event-based architecture
 - 📡 Real-time Messenger events
@@ -46,9 +36,7 @@ The project provides a command-based architecture with support for automation, A
 - 🛠️ Custom event handlers
 
 </td>
-<td width="50%" valign="top">👑 Premium
-
-- 💎 Premium membership
+<td width="50%" valign="top">👑 Premium- 💎 Premium membership
 - ⭐ VIP commands
 - 🔐 Role-based permissions
 - ⏳ Membership expiration
@@ -57,9 +45,7 @@ The project provides a command-based architecture with support for automation, A
 
 </td>
 </tr><tr>
-<td width="50%" valign="top">🧠 AI
-
-- 🎨 AI image generation
+<td width="50%" valign="top">🧠 AI- 🎨 AI image generation
 - 🎬 AI video generation
 - ✨ AI-powered commands
 - 🪄 Image transformation
@@ -67,9 +53,7 @@ The project provides a command-based architecture with support for automation, A
 - 🔌 External API integration
 
 </td>
-<td width="50%" valign="top">📦 Media
-
-- 🖼️ Image processing
+<td width="50%" valign="top">📦 Media- 🖼️ Image processing
 - 🎵 Audio utilities
 - 🎬 Video utilities
 - 📥 Media downloading
@@ -78,9 +62,7 @@ The project provides a command-based architecture with support for automation, A
 
 </td>
 </tr><tr>
-<td width="50%" valign="top">🛡️ Security
-
-- 🔒 Permission system
+<td width="50%" valign="top">🛡️ Security- 🔒 Permission system
 - 👑 Admin controls
 - 🚫 Spam protection
 - ⚠️ Error handling
@@ -88,9 +70,7 @@ The project provides a command-based architecture with support for automation, A
 - ⚙️ Configurable restrictions
 
 </td>
-<td width="50%" valign="top">⚡ Performance
-
-- 🚀 Lightweight architecture
+<td width="50%" valign="top">⚡ Performance- 🚀 Lightweight architecture
 - 🔥 Optimized command loading
 - 📦 Modular dependencies
 - 🔄 Automatic recovery
@@ -99,9 +79,7 @@ The project provides a command-based architecture with support for automation, A
 
 </td>
 </tr>
-</table>---
-
-🧠 Smart Role System
+</table>---🧠 Smart Role System
 
 Five clean permission tiers, checked in strict priority order.
 
@@ -119,11 +97,7 @@ Member| 0| default
 <div align="center">🐐 Project| GOAT-BOT-UPDATED
 👨‍💻 Developer| SIAM AHMED SAAN
 🟢 Node.js| 22.x
-📜 License| MIT
-
-</div>---
-
-🧩 Command Structure
+📜 License| MIT</div>---🧩 Command Structure
 
 commands/
 ├── admin/
@@ -152,8 +126,8 @@ Each command can define:
 
 📥 Installation
 
-git clone https://github.com/Saan-Irl/Enyo-Saan-V3.git
-cd Enyo-Saan-V3
+git clone https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED.git
+cd SAAN-GOAT-BOT-V3-UPDATED
 npm install
 
 ---
@@ -187,48 +161,38 @@ node index.js
 
 📊 GitHub Statistics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saan-Irl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=00D9FF&text_color=FFFFFF" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saan-Irl&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=FFFFFF" width="49%"><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saan-Irl&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=FFD700&currStreakLabel=00D9FF" width="70%"></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saan-Irl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=00D9FF&text_color=FFFFFF" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saan-Irl&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=FFFFFF" width="49%"><br><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saan-Irl&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=FFD700&currStreakLabel=00D9FF" width="70%"></div>---
 
 👀 Visitor Counter
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Saan-Irl&label=GOAT-BOT+VISITORS&color=7000FF&style=for-the-badge&abbreviated=true" alt="GOAT-BOT Visitors"></div>---
-
-🌟 Project Goals
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Saan-Irl&label=GOAT-BOT+VISITORS&color=7000FF&style=for-the-badge&abbreviated=true" alt="GOAT-BOT Visitors"></div>---🌟 Project Goals
 
 <div align="center">⚡ Maximum Performance
 🧩 Clean Architecture
 🔥 Powerful Automation
 💎 Premium Experience
 🛡️ Reliable Security
-🚀 Continuous Development
-
-</div>---
-
-🤝 Contributing
+🚀 Continuous Development</div>---🤝 Contributing
 
 Contributions, suggestions and improvements are welcome.
 
 Fork
-  ↓
+↓
 Create Branch
-  ↓
+↓
 Make Changes
-  ↓
+↓
 Commit
-  ↓
+↓
 Push
-  ↓
+↓
 Pull Request
 
 ---
 
 ⭐ Support
 
-<div align="center">If you like GOAT-BOT-UPDATED, consider supporting the project.
-
-⭐ Star the repository
+<div align="center">If you like GOAT-BOT-UPDATED, consider supporting the project.⭐ Star the repository
 
 🍴 Fork the repository
 
@@ -238,16 +202,12 @@ Pull Request
 
 🤝 Contribute
 
-</div>---
-
-<div align="center">💜 SAAN
-
-"SIAM AHMED SAAN"
+</div>---<div align="center">💜 SAAN"SIAM AHMED SAAN"
 
 Developer • Builder • Creator
 
 <br><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=7000FF&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE;CODE+%7C+AI+%7C+AUTOMATION;GOAT-BOT-UPDATED" alt="SAAN"><br><br>
 
-<a href="https://github.com/Saan-Irl/Enyo-Saan-V3">
+<a href="https://github.com/Fineshyt-Saan/SAAN-GOAT-BOT-V3-UPDATED">
 <img src="https://img.shields.io/badge/GOAT--BOT--UPDATED-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="GOAT-BOT-UPDATED">
 </a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7000FF,100:0D001A&height=140&section=footer" width="100%"></div>
